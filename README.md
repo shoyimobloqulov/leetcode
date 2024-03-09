@@ -1,2 +1,4 @@
 ### Leetcode platformasi masalalari.
-<a href="https://leetcode.com/studyplan/30-days-of-javascript/"><img style="border-radius:50%" src="img.png" width="40"></a>
+<a href="https://leetcode.com/studyplan/30-days-of-javascript/">
+    <img src="img.png" alt="Not Found Image" style="width:70px;background: #000; border-radius: 50%">
+</a>
